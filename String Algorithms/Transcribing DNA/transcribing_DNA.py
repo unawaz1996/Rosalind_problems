@@ -1,4 +1,4 @@
-f = open("/Users/urwahnawaz/Desktop/rosalind_problems/rosalind_dna.txt", 'r')
+f = open("/Users/urwahnawaz/Desktop/rosalind_problems/rosalind_rna.txt", 'r')
 
 seq = f.readline().rstrip()  #reads individual lines 
 f.close()
